@@ -63,7 +63,7 @@ Develop a system that:
 ## Conclusion
 Our solution transforms credit scoring by leveraging alternative data alongside traditional banking information. This innovative approach empowers financial institutions to make informed, fair, and inclusive lending decisions.
 
-## CSample output unitl now(only preprocessing and feature selection) - 
+## Sample output unitl now(only preprocessing and feature selection) - 
 Processed Data Sample:
          Age  Sex  Job  Housing  Saving accounts  Checking account  Credit amount  Duration  Purpose  Risk
 0  0.857143    1    2        1                0                 0       0.050567  0.029412        5     1
